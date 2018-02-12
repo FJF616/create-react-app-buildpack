@@ -1,1 +1,1 @@
-web: bin/compile
+web: bin/detect
